@@ -1,2 +1,4 @@
 # bot_iarinha
-Chat bot que simula uma atendente para a prefeitura municipal de Fortaleza
+Chat bot que simula uma pessoa que realiza uma escuta compassiva
+
+
