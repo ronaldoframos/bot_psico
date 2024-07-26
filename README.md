@@ -1,2 +1,2 @@
-# bot_psico
-bot para criar um escutador compassivo
+# bot_iarinha
+Chat bot que simula uma atendente para a prefeitura municipal de Fortaleza
