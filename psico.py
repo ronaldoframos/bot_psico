@@ -70,7 +70,7 @@ st.image(image, use_column_width=False)
 st.markdown(
     f"""
     <div class="header">
-        <h1> Converse comigo. Sou o Dr. Pessoa e te escutarei.  </h1>
+        <h1> Converse comigo. Sou o Dr. Sergismundo e te escutarei.  </h1>
     </div>
     """,
     unsafe_allow_html=True
